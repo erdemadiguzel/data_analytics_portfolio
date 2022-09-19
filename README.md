@@ -1,4 +1,4 @@
-# erdemadiguzel.github.io
+# Portfolio
 
 ## Machine Learning Projects
 * [Multiclass Classification for Customer Segmentation](https://github.com/erdemadiguzel/data_analytics_portfolio/blob/main/MulticlassClassification-CustomerSegmentation.ipynb): Very first project to completed. Multiclass categorization project in order to give insights to marketing team who would like to introduce their existing marketing strategy to a new market. A public dataset has been used. <br>
