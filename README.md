@@ -1,7 +1,7 @@
 # erdemadiguzel.github.io
 
 ## Machine Learning Projects
-* [Multiclass Classification for Customer Segmentation](): Very first project to completed. Multiclass categorization project in order to give insights to marketing team who would like to introduce their existing marketing strategy to a new market. A public dataset has been used. <br>
+* [Multiclass Classification for Customer Segmentation](https://github.com/erdemadiguzel/data_analytics_portfolio/blob/main/MulticlassClassification-CustomerSegmentation.ipynb): Very first project to completed. Multiclass categorization project in order to give insights to marketing team who would like to introduce their existing marketing strategy to a new market. A public dataset has been used. <br>
 
 *Completed on July 2022, uploaded on September 2022 as rev.0* <br>
 **Libraries:** *Pandas, NumPy, Seaborn, Matplotlib, scikit-learn, KNeighborsClassifier, DecisionTreeClassifier, RandomForestClassifier, XGBClassifier*
